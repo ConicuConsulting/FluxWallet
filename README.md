@@ -123,8 +123,3 @@ Join the conversation and help shape the future:
 ## **📜 License**
 
 This project is licensed under the [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-```
-
----
-
-Let me know if you’d like further refinements or additional details! 🚀
