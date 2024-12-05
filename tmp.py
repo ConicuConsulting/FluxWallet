@@ -1,4 +1,5 @@
-# Test cases for Wallet
+with open("tests/test_wallet.py", "w") as f:
+    f.write("""# Test cases for Wallet
 
 import unittest
 from src.wallet import Wallet
@@ -16,4 +17,5 @@ class TestWallet(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-    
+    """)
+print("Populated tests/test_wallet.py")
