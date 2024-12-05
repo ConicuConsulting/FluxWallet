@@ -1,7 +1,7 @@
 # **FluxWallet**
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/ConicuConsulting/FluxWallet/ci.yml?branch=main)](https://github.com/ConicuConsulting/FluxWallet/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: BY&CSA](https://img.shields.io/badge/License-BY%26CSA-brightgreen)](LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/ConicuConsulting/FluxWallet)](https://github.com/ConicuConsulting/FluxWallet/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/ConicuConsulting/FluxWallet)](https://github.com/ConicuConsulting/FluxWallet/issues)
 
@@ -73,11 +73,13 @@ We welcome contributions from developers, designers, and blockchain enthusiasts!
 2. Create a feature branch.
 3. Submit a pull request with detailed notes.
 
+See our [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+
 ---
 
 ## **📜 License**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the BY&CSA License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -87,4 +89,4 @@ Join the conversation and help shape the future of FluxWallet:
 
 - **[Discussions](https://github.com/ConicuConsulting/FluxWallet/discussions)**
 - **[Issues](https://github.com/ConicuConsulting/FluxWallet/issues)**
-- **[Twitter](https://twitter.com/ConicuConsulting)**
+- **[ActiveGraphs Discord Server](https://discord.gg/yh8BWFBh)**
