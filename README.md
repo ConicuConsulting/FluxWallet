@@ -1,7 +1,7 @@
 # **FluxWallet: The Future of Decentralized Intelligence**
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/ConicuConsulting/FluxWallet/ci.yml?branch=main)](https://github.com/ConicuConsulting/FluxWallet/actions)
-[![License: EIL]([https://img.shields.io/badge/License-CC%20BY--NC--SA-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/](https://medium.com/@callum_26623/introducing-the-empathic-innovation-license-eil-a-framework-for-responsible-use-of-7e6a96cfc3bc))
+[![License: EIL]([https://img.shields.io/badge/License-CC%20BY--NC--SA-blue.svg)](https://medium.com/@callum_26623/introducing-the-empathic-innovation-license-eil-a-framework-for-responsible-use-of-7e6a96cfc3bc))
 [![Contributors](https://img.shields.io/github/contributors/ConicuConsulting/FluxWallet)](https://github.com/ConicuConsulting/FluxWallet/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/ConicuConsulting/FluxWallet)](https://github.com/ConicuConsulting/FluxWallet/issues)
 
